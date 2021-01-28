@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "bootstrap/dist/css/bootstrap.min.css": "./bootstrap/dist/css/bootstrap.min.css",
+    "react": "./react.js",
+    "react-bootstrap": "./react-bootstrap.js",
+    "react-dom": "./react-dom.js",
+    "react-player": "./react-player.js"
+  }
+}
